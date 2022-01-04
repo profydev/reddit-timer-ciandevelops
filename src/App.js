@@ -1,9 +1,17 @@
-import React from 'react';
+import React from "react";
 
 function App() {
   return (
     <div>
-      App Placeholder
+      {/* Create App Skelton */}
+
+      {/* Header */}
+
+      {/* Hero Section */}
+
+      {/* Info Section */}
+
+      {/* Footer */}
     </div>
   );
 }
